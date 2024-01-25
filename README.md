@@ -2,7 +2,6 @@
 
 <div style="padding: 10px;">
     <a href="#CV" style="margin-right: 10px;">CV</a>
-    <a href="#research" style="margin-right: 10px;">Research</a>
 
 </div>
 
@@ -65,14 +64,10 @@
     </ul>
 </div>
 
-
-
-<!-- Repeat the above block for each experience entry -->
-
-
-
-<h2>SKILLS</h2>
-
-
-<h2 id="research">Research</h2>
-<p>Detail your current research or work, highlighting specific projects or areas of study.</p>
+<h3>SKILLS</h3>
+<div>
+    <div><strong>Relevant Coursework</strong> Plasma physics, fluid dynamics, etc. Learning magnetohydrodynamics as of now.</div>
+    <div><strong>Programming</strong> Basic skills in Python. Learning Fortran as of now. ChatGPT 4, Github Copilot and Cursor equipped.]</div>
+    <div><strong>English</strong> Intermediate English user. 113 on TOEFL iBT (30 for reading, 30 for listening, 25 for speaking, 28 for writing) and 333 on GRE General (170 for quantitative, 163 for verbal).</div>
+    <div><strong>Miscellaneous</strong> Basic understandings on Western philosophy.</div>
+</div>
