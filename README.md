@@ -13,8 +13,10 @@
     <span><strong>Name</strong> Xizhe SONG</span>
     <span><strong>Nationality</strong> Chinese</span>
 </div>
-<p><strong>Date of Birth</strong> June 21, 2004</p>
-<p><strong>Gender</strong> Male</p>
+<div style="width: 50%; display: flex; justify-content: space-between;">
+    <span><strong>Date of Birth</strong> June 21, 2004</span>
+    <span><strong>Gender</strong> Male</span>
+</div>
 
 
 <h3>UNDERGRADUATE</h3>
