@@ -1,7 +1,7 @@
 # hsichesung.github.io
-# Hi there, I'm [Your Name] 👋
+ Hi there, I'm [Your Name] 👋
 
-## 👨‍💻 About Me
+ 👨‍💻 About Me
 
 I'm a [Your Job Title/Position] with a passion for [briefly mention your areas of interest or expertise]. 
 
