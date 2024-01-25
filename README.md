@@ -9,21 +9,21 @@
 <h2 id="CV">Curriculum Vitae</h2>
 
 <h3>PERSONAL</h3>
-<div style="width: 50%; display: flex; justify-content: space-between;">
+<div style="width: 80%; display: flex; justify-content: space-between;">
     <span><strong>Name</strong> Xizhe SONG</span>
     <span><strong>Nationality</strong> Chinese</span>
 </div>
-<div style="width: 50%; display: flex; justify-content: space-between;">
+<div style="width: 80%; display: flex; justify-content: space-between;">
     <span><strong>Date of Birth</strong> June 21, 2004</span>
     <span><strong>Gender</strong> Male</span>
 </div>
 
 <h3>UNDERGRADUATE</h3>
-<div style="width: 50%; display: flex; justify-content: space-between;">
+<div style="width: 80%; display: flex; justify-content: space-between;">
     <span><strong>University</strong> University of Science and Technology of China</span>
     <span><strong>Enrolled</strong> September 2021 — <strong>Expected</strong> June 2025</span>
 </div>
-<div style="width: 50%; display: flex; justify-content: space-between;">
+<div style="width: 80%; display: flex; justify-content: space-between;">
     <span><strong>School</strong> School of the Gifted Young</span>
     <span><strong>Major</strong> Space Science and Technology (Space Physics track)</span>
 </div>
