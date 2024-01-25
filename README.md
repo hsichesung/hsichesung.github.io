@@ -1,14 +1,11 @@
-hsichesung.github.io
-Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Your Name] 👋
 
-About Me
+Welcome to my GitHub profile! Feel free to explore my projects and learn more about my work.
 
-I'm a [Your Job Title/Position] with a passion for [briefly mention your areas of interest or expertise]. 
+## Navigation
+- [CV](./CV.md) - Learn more about my professional background and skills.
+- [Blank](./Blank.md) - [Additional information or description about this page].
 
-- 🔭 I’m currently working on [what you are currently working on].
-- 🌱 I’m currently learning [what you are currently learning].
-- 👯 I’m looking to collaborate on [type of projects you're interested in].
-- 🤔 I’m looking for help with [something you need help with].
-- 💬 Ask me about [topics you are comfortable discussing].
-- 📫 How to reach me: [your email or other contact information].
-- ⚡ Fun fact: [a fun fact about you].
+## 👨‍💻 About Me
+
+I'm a [Your Job Title/Position], passionate about [briefly mention your areas of interest or expertise]. 
