@@ -66,9 +66,7 @@
 
 <h3>SKILLS</h3>
 <div>
-    <div><strong>Relevant Courses</strong>
-        Plasma physics, fluid dynamics, etc. Learning magnetohydrodynamics as of now.
-    </div>
+    <div><strong>Relevant Courses:</strong> Plasma physics, fluid dynamics, etc. Learning magnetohydrodynamics as of now.</div>
     <div><strong>Programming:</strong> Basic skills in Python. Learning Fortran as of now. ChatGPT 4, Github Copilot and Cursor equipped.</div>
     <div><strong>English:</strong> Intermediate English user. 113 on TOEFL iBT (30 for reading, 30 for listening, 25 for speaking, 28 for writing) and 333 on GRE General (170 for quantitative, 163 for verbal).</div>
     <div><strong>Miscellaneous:</strong> Basic understandings on Western philosophy.</div>
