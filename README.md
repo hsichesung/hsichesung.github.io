@@ -9,12 +9,10 @@
 <h2 id="CV">Curriculum Vitae</h2>
 
 <h3>PERSONAL</h3>
-<div style="width: 100%; display: flex; justify-content: space-between;">
+<div style="width: 50%; display: flex; justify-content: space-between;">
     <span><strong>Name</strong> Xizhe SONG</span>
     <span><strong>Nationality</strong> Chinese</span>
 </div>
-<p><strong>Name</strong> Xizhe SONG</p>
-<p><strong>Nationality</strong> Chinese</p>
 <p><strong>Date of Birth</strong> June 21, 2004</p>
 <p><strong>Gender</strong> Male</p>
 
