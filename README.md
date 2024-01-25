@@ -6,7 +6,7 @@
 
 </div>
 
-<h2 id="CV">Curriculum Vitae</h2>
+<h2 id="CV">CV</h2>
 
 <h3>PERSONAL</h3>
 <div style="width: 80%; display: flex; justify-content: space-between;">
@@ -18,27 +18,54 @@
     <span><strong>Gender</strong> Male</span>
 </div>
 
-<h3>UNDERGRADUATE</h3>
-<p><strong>University</strong> University of Science and Technology of China</p>
+<h3>UNDERGRADUATE: University of Science and Technology of China</h3>
 <div style="width: 80%; display: flex; justify-content: space-between;">
     <span><strong>Enrolled</strong> September 2021 — <strong>Expected</strong> June 2025</span>
     <span><strong>GPA</strong> 3.69/4.30</span>
 </div>
 <div style="width: 80%; display: flex; justify-content: space-between;">
+    <span><strong>Major</strong> Space Science and Technology, Space Physics track</span>
     <span><strong>School</strong> School of the Gifted Young</span>
-    <span><strong>Major</strong> Space Science and Technology (Space Physics track)</span>
 </div>
-
 
 <h3>EXPERIENCE</h3>
 <div style="margin-bottom: 10px;">
     <div style="font-weight: bold;">Space Radiation Research Group</div>
     <div>University of Science and Technology of China</div>
-    <div style="font-style: italic;">Sept 2022 – Ongoing</div>
+    <div style="font-style: italic;">September 2022 – Ongoing</div>
     <ul>
         <li>Getting familiar with researches on space radiation, no significant work done</li>
     </ul>
 </div>
+
+<div style="margin-bottom: 10px;">
+    <div style="font-weight: bold;">Practices of Space Detection</div>
+    <div>University of Science and Technology of China</div>
+    <div style="font-style: italic;">July 2023</div>
+    <ul>
+        <li>Analysis of a recorded solar eruptive phenomenon and consequential space weathering</li>
+    </ul>
+</div>
+
+<div style="margin-bottom: 10px;">
+    <div style="font-weight: bold;">Space Weather Course Research</div>
+    <div>University of Science and Technology of China</div>
+    <div style="font-style: italic;">January 2024</div>
+    <ul>
+        <li>Analysis of a recorded solar eruptive phenomenon and consequential space weathering</li>
+    </ul>
+</div>
+
+<div style="margin-bottom: 10px;">
+    <div style="font-weight: bold;">Berkeley Global Access</div>
+    <div>University of California, Berkeley</div>
+    <div style="font-style: italic;">January 2024 - May 2024</div>
+    <ul>
+        <li>Visiting student to University of California, Berkeley for spring 2024</li>
+    </ul>
+</div>
+
+
 
 <!-- Repeat the above block for each experience entry -->
 
