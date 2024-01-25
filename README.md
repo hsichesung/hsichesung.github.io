@@ -1,31 +1,16 @@
-# [Your Name]
+<h1>Your Name</h1>
 
-## Navigation
-- [Home](#home)
-- [Research](#research)
-- [Teaching](#teaching)
-- [Publications](#publications)
-- [Blog](#blog)
-- [CV](#cv)
-- [Contact](#contact)
+<div style="background-color: #f5f5f5; padding: 10px;">
+    <a href="#home" style="margin-right: 10px;">Home</a>
+    <a href="#research" style="margin-right: 10px;">Research</a>
+    <a href="#teaching" style="margin-right: 10px;">Teaching</a>
+    <!-- Add more links as needed -->
+</div>
 
-## Home
-Brief introduction about yourself and your main areas of interest.
+<h2 id="home">Home</h2>
+<p>Brief introduction about yourself and your main areas of interest.</p>
 
-## Research
-Detail your current research or work, highlighting specific projects or areas of study.
+<h2 id="research">Research</h2>
+<p>Detail your current research or work, highlighting specific projects or areas of study.</p>
 
-## Teaching
-If you're involved in teaching, mention the courses or workshops you conduct.
-
-## Publications
-List your publications, papers, or articles.
-
-## Blog
-Link to your blog or mention recent blog posts.
-
-## CV
-Provide a link to your CV or resume.
-
-## Contact
-Your contact details and links to professional profiles.
+<!-- Add more sections as needed -->
