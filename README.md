@@ -1,6 +1,6 @@
 <h1>Your Name</h1>
 
-<div style="background-color: #f5f5f5; padding: 10px;">
+<div style="padding: 10px;">
     <a href="#home" style="margin-right: 10px;">Home</a>
     <a href="#research" style="margin-right: 10px;">Research</a>
     <a href="#teaching" style="margin-right: 10px;">Teaching</a>
