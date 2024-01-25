@@ -18,12 +18,15 @@
     <span><strong>Gender</strong> Male</span>
 </div>
 
-
 <h3>UNDERGRADUATE</h3>
-<p><strong>University</strong> University of Science and Technology of China</p>
-<p><strong>Enrolled</strong> September 2021 — Expected: June 2025</p>
-<p><strong>School</strong> School of the Gifted Young</p>
-<p><strong>Major</strong> Space Science and Technology (Space Physics track)</p>
+<div style="width: 50%; display: flex; justify-content: space-between;">
+    <span><strong>University</strong> University of Science and Technology of China</span>
+    <span><strong>Enrolled</strong> September 2021 — <strong>Expected</strong> June 2025</span>
+</div>
+<div style="width: 50%; display: flex; justify-content: space-between;">
+    <span><strong>School</strong> School of the Gifted Young</span>
+    <span><strong>Major</strong> Space Science and Technology (Space Physics track)</span>
+</div>
 <p><strong>GPA</strong> 3.69/4.30</p>
 
 
