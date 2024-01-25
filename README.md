@@ -31,7 +31,18 @@
 
 
 <h3>EXPERIENCE</h3>
-<!-- Add your experiences here with <p> tags -->
+<div style="margin-bottom: 10px;">
+    <div style="font-weight: bold;">Space Radiation Research Group</div>
+    <div>University of Science and Technology of China</div>
+    <div style="font-style: italic;">Sept 2022 – Ongoing</div>
+    <ul>
+        <li>Getting familiar with researches on space radiation, no significant work done</li>
+    </ul>
+</div>
+
+<!-- Repeat the above block for each experience entry -->
+
+
 
 <h2>SKILLS</h2>
 
