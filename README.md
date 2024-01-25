@@ -1,4 +1,4 @@
-<h1>Homepage of Xizhe SONG</h1>
+<h2>Homepage of Xizhe SONG</h2>
 
 <div style="padding: 10px;">
     <a href="#CV" style="margin-right: 10px;">CV</a>
@@ -6,21 +6,23 @@
 
 </div>
 
-<h2 id="CV">CV</h2>
-<h1>Curriculum Vitae of Xizhe SONG</h1>
+<h2 id="Curriculum Vitae">CV</h2>
 
-<h2>PERSONAL</h2>
-<p><strong>Name:</strong> Xizhe SONG</p>
-<p><strong>Nationality:</strong> Chinese</p>
-<p><strong>Date of Birth:</strong> June 21, 2004</p>
-<p><strong>Gender:</strong> Male</p>
+<h3>PERSONAL</h3>
+<p><strong>Name</strong> Xizhe SONG</p>
+<p><strong>Nationality</strong> Chinese</p>
+<p><strong>Date of Birth</strong> June 21, 2004</p>
+<p><strong>Gender</strong> Male</p>
 
-<h2>UNDERGRADUATE</h2>
-<p><strong>University:</strong> University of Science and Technology of China</p>
-<p><strong>Enrolled:</strong> September 2021 — Expected: June 2025</p>
-<p><strong>Major:</strong> Space Science and Technology (Space Physics track)</p>
+<h3>UNDERGRADUATE</h3>
+<p><strong>University</strong> University of Science and Technology of China</p>
+<p><strong>Enrolled</strong> September 2021 — Expected: June 2025</p>
+<p><strong>School</strong> School of the Gifted Young</p>
+<p><strong>Major</strong> Space Science and Technology (Space Physics track)</p>
+<p><strong>GPA</strong> 3.69/4.30</p>
 
-<h2>EXPERIENCE</h2>
+
+<h3>EXPERIENCE</h3>
 <!-- Add your experiences here with <p> tags -->
 
 <h2>SKILLS</h2>
