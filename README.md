@@ -2,7 +2,7 @@
 
 <div style="padding: 10px;">
     <a href="#CV" style="margin-right: 10px;">CV</a>
-    <a href="hsichesung.github.io/transcript.html">Transcript</a>
+    <a href="transcript.html">Transcript</a>
 
 </div>
 
