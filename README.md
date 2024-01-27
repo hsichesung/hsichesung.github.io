@@ -73,4 +73,4 @@
     <div><strong>Miscellaneous:</strong> Basic understandings on Western philosophy.</div>
 </div>
 
-<a href="URL_TO_YOUR_CV/CV.pdf" download="Your_CV_Name.pdf">Download My CV</a>
+<a href="CV.pdf" download="CV_Xizhe_Song.pdf">Download My CV</a>
