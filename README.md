@@ -72,3 +72,5 @@
     <div><strong>English:</strong> Intermediate English user. 113/120 on TOEFL iBT and 333/340 on GRE General.</div>
     <div><strong>Miscellaneous:</strong> Basic understandings on Western philosophy.</div>
 </div>
+
+<a href="URL_TO_YOUR_CV/CV.pdf" download="Your_CV_Name.pdf">Download My CV</a>
