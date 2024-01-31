@@ -2,7 +2,7 @@
 
 <div style="padding: 10px;">
     <a href="#CV" style="margin-right: 10px;">CV</a>
-    <a href="transcript.html">Transcript</a>
+    <a href="#Transcript" style="margin-right: 10px;">CV</a>
 
 </div>
 
@@ -74,3 +74,5 @@
 </div>
 
 <a href="CV.pdf" download="CV_Xizhe_Song.pdf">Download My CV</a>
+
+<h2 id="Transcript">Transcript</h2>
