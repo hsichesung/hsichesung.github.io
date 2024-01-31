@@ -101,7 +101,6 @@
 </head>
 <body>
     <div class="container">
-        <h2>My transcript</h2>
         <iframe src="transcript.pdf"></iframe>
     </div>
 </body>
