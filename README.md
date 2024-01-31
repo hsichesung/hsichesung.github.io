@@ -76,3 +76,33 @@
 <a href="CV.pdf" download="CV_Xizhe_Song.pdf">Download My CV</a>
 
 <h2 id="Transcript">Transcript</h2>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transcript</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+        }
+        iframe {
+            width: 100%;
+            height: 600px;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>My transcript</h2>
+        <iframe src="transcript.pdf"></iframe>
+    </div>
+</body>
