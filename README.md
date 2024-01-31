@@ -21,7 +21,7 @@
 <h3>UNDERGRADUATE: University of Science and Technology of China</h3>
 <div style="width: 80%; display: flex; justify-content: space-between;">
     <span><strong>Enrolled</strong> September 2021 — <strong>Expected</strong> June 2025</span>
-    <span><strong>GPA</strong> 3.69/4.30</span>
+    <span><strong>GPA</strong> 3.64/4.30</span>
 </div>
 <div style="width: 80%; display: flex; justify-content: space-between;">
     <span><strong>Major</strong> Space Science and Technology, Space Physics track</span>
