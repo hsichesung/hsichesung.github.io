@@ -87,7 +87,6 @@
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
-            text-align: center;
         }
         .container {
             width: 80%;
