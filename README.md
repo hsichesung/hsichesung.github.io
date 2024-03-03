@@ -8,6 +8,8 @@
 
 <h2 id="CV">CV</h2>
 
+<a href="CV.pdf" download="CV_Xizhe_Song.pdf">Download My CV</a>
+
 <h3>PERSONAL</h3>
 <div style="width: 80%; display: flex; justify-content: space-between;">
     <span><strong>Name</strong> Xizhe SONG</span>
@@ -72,8 +74,6 @@
     <div><strong>English:</strong> Intermediate English user. 113/120 on TOEFL iBT and 333/340 on GRE General.</div>
     <div><strong>Miscellaneous:</strong> Basic understandings on Western philosophy.</div>
 </div>
-
-<a href="CV.pdf" download="CV_Xizhe_Song.pdf">Download My CV</a>
 
 <h2 id="Transcript">Transcript</h2>
 <head>
