@@ -1,10 +1,7 @@
 <h2>Homepage of Xizhe SONG</h2>
 
-
 <a href="#CV" style="margin-right: 10px; font-size: 20px;">CV</a>
 <a href="#Transcript" style="margin-right: 10px; font-size: 20px;">Transcript</a>
-
-</div>
 
 <h2 id="CV">CV</h2>
 
