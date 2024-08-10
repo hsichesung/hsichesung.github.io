@@ -2,7 +2,7 @@
 <a href="#Transcript" style="margin-right: 10px; font-size: 20px;">Transcript</a>
 
 <div>
-    <h2 id="CV" style="display: inline-block; margin-right: 10px;">CV</h2>
+    <a id="CV" style="display: inline-block; margin-right: 10px;">CV</a>
     <a href="CV.pdf" download="CV_Xizhe_Song.pdf" style="display: inline-block; vertical-align: middle;">Download My CV</a>
 </div>
 
