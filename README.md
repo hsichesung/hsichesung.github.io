@@ -23,7 +23,7 @@
 <h3>UNDERGRADUATE: University of Science and Technology of China</h3>
 <div style="width: 80%; display: flex; justify-content: space-between;">
     <span><strong>Enrolled</strong> September 2021 — <strong>Expected</strong> June 2025</span>
-    <span><strong>GPA</strong> 3.64/4.30</span>
+    <span><strong>GPA</strong> 3.6/4.30</span>
 </div>
 <div style="width: 80%; display: flex; justify-content: space-between;">
     <span><strong>Major</strong> Space Science and Technology, Space Physics track</span>
@@ -69,8 +69,8 @@
 
 <h3>SKILLS</h3>
 <div>
-    <div><strong>Relevant Courses:</strong> Plasma physics, fluid dynamics, etc. Learning magnetohydrodynamics as of now.</div>
-    <div><strong>Programming:</strong> Basic skills in Python. Learning Fortran as of now. ChatGPT 4, Github Copilot and Cursor equipped.</div>
+    <div><strong>Relevant Courses:</strong> Plasma physics, fluid dynamics, magnetohydrodynamics, etc.</div>
+    <div><strong>Programming:</strong> Basic skills in Python and Fortran.</div>
     <div><strong>English:</strong> Intermediate English user. 113/120 on TOEFL iBT and 333/340 on GRE General.</div>
     <div><strong>Miscellaneous:</strong> Basic understandings on Western philosophy.</div>
 </div>
