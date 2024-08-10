@@ -1,11 +1,10 @@
-<h2>Homepage of Xizhe SONG</h2>
-
 <a href="#CV" style="margin-right: 10px; font-size: 20px;">CV</a>
 <a href="#Transcript" style="margin-right: 10px; font-size: 20px;">Transcript</a>
 
-<h2 id="CV">CV</h2>
-
-<a href="CV.pdf" download="CV_Xizhe_Song.pdf">Download My CV</a>
+<div>
+    <h2 id="CV" style="display: inline-block; margin-right: 10px;">CV</h2>
+    <a href="CV.pdf" download="CV_Xizhe_Song.pdf" style="display: inline-block; vertical-align: middle;">Download My CV</a>
+</div>
 
 <h3>PERSONAL</h3>
 <div style="width: 80%; display: flex; justify-content: space-between;">
