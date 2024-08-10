@@ -1,10 +1,8 @@
 <a href="#CV" style="margin-right: 10px; font-size: 20px;">CV</a>
 <a href="#Transcript" style="margin-right: 10px; font-size: 20px;">Transcript</a>
 
-<div>
-    <a id="CV" style="display: inline-block; margin-right: 10px;">CV</a>
-    <a href="CV.pdf" download="CV_Xizhe_Song.pdf" style="display: inline-block; vertical-align: middle;">Download My CV</a>
-</div>
+<a id="CV" style="display: inline-block; margin-right: 10px;">CV</a>
+<a href="CV.pdf" download="CV_Xizhe_Song.pdf" style="display: inline-block; vertical-align: middle;">Download My CV</a>
 
 <h3>PERSONAL</h3>
 <div style="width: 80%; display: flex; justify-content: space-between;">
