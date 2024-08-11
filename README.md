@@ -82,7 +82,7 @@
             background-color: #f4f4f4;
         }
         .container {
-            width: 80%;
+            width: 95%;
             margin: 20px auto;
         }
         iframe {
