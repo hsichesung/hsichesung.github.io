@@ -67,7 +67,7 @@
     <div><strong>Miscellaneous:</strong> Basic understandings on Western philosophy.</div>
 </div>
 
-<h2 id="Transcript">Transcript</h2>
+<h2>Transcript</h2>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
