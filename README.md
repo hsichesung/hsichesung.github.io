@@ -1,5 +1,5 @@
-<a href="#CV" download="CV_Xizhe_Song.pdf" style="margin-right: 10px; font-size: 20px;">CV (download)</a>
-<a href="#Transcript" download="Transcript_Xizhe_Song.pdf" style="margin-right: 10px; font-size: 20px;">Transcript (scroll down to view, click to download)</a>
+<a href="CV.pdf" download="CV_Xizhe_Song.pdf" style="margin-right: 10px; font-size: 20px;">CV (download)</a>
+<a href="Transcript.pdf" download="Transcript_Xizhe_Song.pdf" style="margin-right: 10px; font-size: 20px;">Transcript (scroll down to view, click to download)</a>
 
 <h2>CV of Xizhe Song</h2>
 <h3>PERSONAL</h3>
